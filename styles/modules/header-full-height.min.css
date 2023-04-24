@@ -1,0 +1,1 @@
+.header-full-height #headerwrap{display:table;height:100vh}.header-full-height #header{box-sizing:border-box;display:table-cell;padding-left:6%;padding-right:6%;vertical-align:middle;width:100%}.header-full-height #headerwrap.fixed-header{height:auto}
